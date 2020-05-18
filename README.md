@@ -1,2 +1,1 @@
-# Hello
-### i have a problem with 
+# Чтобы скачать с гитхаба проект запускаем команду 'git clone '
